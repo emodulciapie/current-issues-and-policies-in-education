@@ -191,74 +191,6 @@
   },
   {
     "_component": "list",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "LEARNING OBJECTIVES",
-    "displayTitle": "LEARNING OBJECTIVES",
-    "body": "<p>After completing the course, students are expected to develop their:</p>",
-    "_id": "5f9912ce97dd7c27cc673088",
-    "_parentId": "5f9912c397dd7c27cc673087",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_hint": {
-      "_items": [],
-      "_isNotifyPopup": false
-    },
-    "_drop": {
-      "_isEnabled": false,
-      "_classes": "",
-      "title": "",
-      "ariaLabel": ""
-    },
-    "instruction": "",
-    "_animateList": true,
-    "_percentInviewVertical": 50,
-    "_orderedList": false,
-    "_columns": 0,
-    "_items": [
-      {
-        "title": "",
-        "body": "<p>perspectives,</p>",
-        "_imageSrc": "",
-        "alt": ""
-      },
-      {
-        "title": "",
-        "body": "<p>critical thinking</p>",
-        "_imageSrc": "",
-        "alt": ""
-      },
-      {
-        "title": "",
-        "body": "<p>literacy skills, and</p>",
-        "_imageSrc": "",
-        "alt": ""
-      },
-      {
-        "title": "",
-        "body": "<p>communication skills.</p>",
-        "_imageSrc": "",
-        "alt": ""
-      }
-    ]
-  },
-  {
-    "_component": "list",
     "_classes": "white-component",
     "_isOptional": false,
     "_isAvailable": true,
@@ -6600,6 +6532,44 @@
     },
     "_pageLevelProgress": {
       "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_hint": {
+      "_items": [],
+      "_isNotifyPopup": false
+    },
+    "_drop": {
+      "_isEnabled": false,
+      "_classes": "",
+      "title": "",
+      "ariaLabel": ""
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "LEARNING OBJECTIVES",
+    "displayTitle": "LEARNING OBJECTIVES",
+    "body": "<p>After completing the course, students are expected to develop their:</p><ul><li>perspectives,</li><li>critical thinking,</li><li>literacy skills, and</li><li>communication skills</li></ul><p>on educational issues and policies across countries.</p>",
+    "_id": "5fa01d76bef5691f341ae57c",
+    "_parentId": "5f9912c397dd7c27cc673087",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": true,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_hint": {
